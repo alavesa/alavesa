@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Piia
 
-<!--
-**alavesa/alavesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior UX Design Leader with 20 years in industrial design systems.  
+Double M.Sc. — Cyber Security (Oulu) + Information Systems (JYU).
 
-Here are some ideas to get you started:
+#### What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+|---|---|
+| [PatchPilots](https://github.com/alavesa/patchpilots) | 8 AI agents that review and improve your code — `npx patchpilots audit ./src` |
+| [Security UX Patterns](https://github.com/alavesa/security-UX-pattern-library) | 34 interactive patterns with compliance mapping |
+| [CyberSlayer](https://github.com/alavesa/cyberslayer-web) | DOOM-inspired cybersecurity browser game |
+| [Design Trail](https://github.com/alavesa/changelog) | Figma plugin for tracking design changes |
+
+#### Where to find me
+
+[neversay.no](https://neversay.no) · [LinkedIn](https://www.linkedin.com/in/alavesa/) · Helsinki, Finland
