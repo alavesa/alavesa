@@ -14,4 +14,4 @@ Double M.Sc. — Cyber Security (Oulu) + Information Systems (JYU).
 
 #### Where to find me
 
-[neversay.no](https://neversay.no) · [LinkedIn](https://www.linkedin.com/in/alavesa/) · Helsinki, Finland
+[neversay.no](https://neversay.no) · [LinkedIn](https://www.linkedin.com/in/alavesa/)
