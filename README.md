@@ -9,7 +9,7 @@ Double M.Sc. — Cyber Security (Oulu) + Information Systems (JYU).
 |---|---|
 | [PatchPilots](https://github.com/alavesa/patchpilots) | 8 AI agents that review and improve your code — `npx patchpilots audit ./src` |
 | [Security UX Patterns](https://github.com/alavesa/security-UX-pattern-library) | 34 interactive patterns with compliance mapping |
-| [CyberSlayer](https://github.com/alavesa/cyberslayer-web) | DOOM-inspired cybersecurity browser game |
+| [CyberSlayer](https://github.com/alavesa/cyberslayer-web) | DOOM-inspired cybersecurity game — [Disobey badge](https://github.com/alavesa/cyberslayer) + web version |
 | [Design Trail](https://github.com/alavesa/changelog) | Figma plugin for tracking design changes |
 
 #### Where to find me
