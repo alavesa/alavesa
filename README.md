@@ -1,7 +1,7 @@
 ### Hi, I'm Piia
 
 Senior UX Design Leader with 20 years in industrial design systems.  
-Double M.Sc. — Cyber Security (Oulu) + Information Systems (JYU).
+Double M.Sc. — Cyber Security (JYU) + Information Systems (Oulu).
 
 #### What I'm building
 
