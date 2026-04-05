@@ -11,7 +11,7 @@ I bridge design leadership and security engineering — building tools that make
 |---|---|
 | [PatchPilots](https://github.com/alavesa/patchpilots) | 8 AI agents that review and improve your code — security, accessibility, design tokens, and more. `npx patchpilots audit ./src` |
 | [PatchPilots MCP](https://github.com/alavesa/patchpilots-mcp) | OWASP Top 10 + supply chain scanning inside Claude Code, Cursor, and any MCP-compatible IDE |
-| [Security UX Patterns](https://github.com/alavesa/security-UX-pattern-library) | 34 interactive patterns mapping security to UX — OWASP, NIS2, WCAG compliance |
+| [Security UX Patterns](https://github.com/alavesa/security-UX-pattern-library) | 34 interactive patterns + 6 strategic tools: Ripple (news impact analysis), Security UX Score, Compliance Mapper, Maturity Model, Report Generator, Convince Your Team. Mapped to OWASP, NIS2, DORA, EU AI Act, IEC 62443 |
 
 #### Design Tools
 
