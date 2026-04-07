@@ -23,7 +23,7 @@ I bridge design leadership and security engineering — building tools that make
 
 | | |
 |---|---|
-| [CyberSlayer](https://github.com/alavesa/cyberslayer-web) | DOOM-inspired cybersecurity game — [Disobey badge](https://github.com/alavesa/cyberslayer) + web version |
+| [CyberSlayer](https://github.com/alavesa/cyberslayer-web) | DOOM-inspired cybersecurity game — [Disobey badge](https://github.com/alavesa/cyberslayer) + [play it](https://cyberslayer.win) |
 
 #### Where to find me
 
