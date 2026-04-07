@@ -9,8 +9,8 @@ I bridge design leadership and security engineering — building tools that make
 
 | | |
 |---|---|
-| [PatchPilots](https://github.com/alavesa/patchpilots) | 8 AI agents that review and improve your code — security, accessibility, design tokens, and more. `npx patchpilots audit ./src` |
-| [PatchPilots MCP](https://github.com/alavesa/patchpilots-mcp) | Security, accessibility, and supply chain scanning inside Claude Code, Cursor, and any MCP-compatible IDE — OWASP Top 10, WCAG 2.1 AA, dependency risks |
+| [PatchPilots](https://github.com/alavesa/patchpilots) | 8 AI agents that review and improve your code — security, accessibility, design tokens, and more. [npm](https://www.npmjs.com/package/patchpilots) · [GitHub Action](https://github.com/alavesa/patchpilots/blob/main/README.md#github-action) · `npx patchpilots audit ./src` |
+| [PatchPilots MCP](https://github.com/alavesa/patchpilots-mcp) | Security, accessibility, and supply chain scanning inside Claude Code, Cursor, and any MCP-compatible IDE — OWASP Top 10, WCAG 2.1 AA, dependency risks. [npm](https://www.npmjs.com/package/patchpilots-mcp) |
 | [Security UX Patterns](https://github.com/alavesa/security-UX-pattern-library) | 34 interactive patterns + 6 strategic tools: Ripple (news impact analysis), Security UX Score, Compliance Mapper, Maturity Model, Report Generator, Convince Your Team. Mapped to GDPR, NIS2, OWASP, EU AI Act, DORA, CRA, IEC 62443 +++ — [uxsec.dev](https://uxsec.dev) |
 
 #### Design Tools
