@@ -17,7 +17,7 @@ I bridge design leadership and security engineering — building tools that make
 
 | | |
 |---|---|
-| [Design Trail](https://github.com/alavesa/changelog) | Figma plugin for tracking design changes |
+| [Design Trail](https://github.com/alavesa/changelog) | Figma plugin for tracking design changes — automatic changelogs for your design system. Currently in official Figma review |
 
 #### Fun
 
