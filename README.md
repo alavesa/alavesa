@@ -1,7 +1,7 @@
 ### Hi, I'm Piia
 
 Senior UX Design Leader with 20 years in industrial design systems.  
-Double M.Sc. — Cyber Security (JYU) + Information Systems (Oulu).
+Double M.Sc. — Cyber Security (University of Jyväskylä) + Information Systems (University of Oulu).
 
 I bridge design leadership and security engineering — building tools that make secure, accessible software the default.
 
