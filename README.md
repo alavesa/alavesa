@@ -18,6 +18,7 @@ I bridge design leadership and security engineering — building tools that make
 
 | | |
 |---|---|
+| [RedSketch Figma Plugin](https://github.com/alavesa/redsketch-figma) | Figma plugin — threat-model your designs inside Figma. Select a frame, choose scope (screen/flow/component/dialog), get STRIDE analysis with 36 patterns. WIP |
 | [Design Trail](https://github.com/alavesa/changelog) | Figma plugin for tracking design changes — automatic changelogs for your design system. Currently in official Figma review |
 
 #### Fun
