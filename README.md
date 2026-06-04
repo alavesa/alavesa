@@ -14,6 +14,13 @@ I bridge design leadership and security engineering — building tools that make
 | [RedSketch](https://github.com/alavesa/RedSketch) | Threat-model your Figma designs before writing code. Drop a Figma URL → STRIDE threats, 36 pattern matches, compliance gaps across 19 regulations. [npm](https://www.npmjs.com/package/redsketch) · [uxsec.dev/redsketch](https://uxsec.dev/redsketch) |
 | [Security UX Patterns](https://github.com/alavesa/security-UX-pattern-library) | 36 interactive patterns + 5 strategic tools + 2 operational CLI tools (Ripple, RedSketch). Security UX Score, Compliance Mapper, Maturity Model, Report Generator, Convince Your Team. Mapped to GDPR, NIS2, OWASP, EU AI Act, DORA, CRA, IEC 62443 +++ — [uxsec.dev](https://uxsec.dev) |
 
+#### Design Systems + AI
+
+| | |
+|---|---|
+| [HMI Design System](https://github.com/alavesa/hmi-design-system) | An ISA-101 / HP-HMI industrial design system, restructured for AI consumption — tokens, components, and rules an agent can cite and follow. Companion to my Gofore Breakfast talk *"Your design system is AI infrastructure."* |
+| [Loom](https://github.com/alavesa/loom) | MCP server that serves a design system — tokens, components, usage rules — as queryable tools for any MCP-aware client. The protocol layer behind the talk. |
+
 #### Design Tools
 
 | | |
