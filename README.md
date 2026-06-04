@@ -33,6 +33,7 @@ I bridge design leadership and security engineering — building tools that make
 | | |
 |---|---|
 | [CyberSlayer](https://github.com/alavesa/cyberslayer-web) | DOOM-inspired cybersecurity game — [Disobey badge](https://github.com/alavesa/cyberslayer) + [play it](https://cyberslayer.win) · Featured on [YLE](https://yle.fi/a/74-20209934) |
+| [Draw Her Story](https://github.com/alavesa/draw-her-story) | A drawing & guessing game celebrating the women who changed the world — built for International Women's Day at the She Builds hackathon. [play it](https://drawherstory.win) |
 
 #### Where to find me
 
