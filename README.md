@@ -11,7 +11,7 @@ I bridge design leadership and security engineering — building tools that make
 |---|---|
 | [PatchPilots](https://github.com/alavesa/patchpilots) | 8 AI agents that review and improve your code — security, accessibility, design tokens, and more. [npm](https://www.npmjs.com/package/patchpilots) · [GitHub Action](https://github.com/alavesa/patchpilots/blob/main/README.md#github-action) · `npx patchpilots audit ./src` |
 | [PatchPilots MCP](https://github.com/alavesa/patchpilots-mcp) | Security, accessibility, and supply chain scanning inside Claude Code, Cursor, and any MCP-compatible IDE — OWASP Top 10, WCAG 2.1 AA, dependency risks. Risk emojis (💀🔴🟠🟡🟢), clean scan badges, and 🔥 roast mode. [npm](https://www.npmjs.com/package/patchpilots-mcp) |
-| [RedSketch](https://github.com/alavesa/RedSketch) | Threat-model your Figma designs before writing code. Drop a Figma URL → STRIDE threats, 36 pattern matches, compliance gaps across 19 regulations. [npm](https://www.npmjs.com/package/redsketch) · [uxsec.dev/redsketch](https://uxsec.dev/redsketch) |
+| [RedSketch (CLI)](https://github.com/alavesa/RedSketch) | Threat-model your Figma designs before writing code. Drop a Figma URL → STRIDE threats, 36 pattern matches, compliance gaps across 19 regulations. [npm](https://www.npmjs.com/package/redsketch) · [uxsec.dev/redsketch](https://uxsec.dev/redsketch) |
 | [Security UX Patterns](https://github.com/alavesa/security-UX-pattern-library) | 36 interactive patterns + 5 strategic tools + 2 operational CLI tools (Ripple, RedSketch). Security UX Score, Compliance Mapper, Maturity Model, Report Generator, Convince Your Team. Mapped to GDPR, NIS2, OWASP, EU AI Act, DORA, CRA, IEC 62443 +++ — [uxsec.dev](https://uxsec.dev) |
 
 #### Design Systems + AI
@@ -25,7 +25,7 @@ I bridge design leadership and security engineering — building tools that make
 
 | | |
 |---|---|
-| [RedSketch](https://github.com/alavesa/redsketch-figma) | Figma plugin — threat-model your designs inside Figma. Select a frame, choose scope (screen/flow/component/dialog), get STRIDE analysis with 36 patterns. WIP |
+| [RedSketch (Figma plugin)](https://github.com/alavesa/redsketch-figma) | Figma plugin — threat-model your designs inside Figma. Select a frame, choose scope (screen/flow/component/dialog), get STRIDE analysis with 36 patterns. WIP |
 | [Design Trail](https://github.com/alavesa/changelog) | Figma plugin for tracking design changes — automatic changelogs for your design system. Available in Figma community: https://www.figma.com/community/plugin/1619765017994112841/design-trail |
 
 #### Fun
