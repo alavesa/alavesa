@@ -19,7 +19,7 @@ I bridge design leadership and security engineering — building tools that make
 | | |
 |---|---|
 | [HMI Design System](https://github.com/alavesa/hmi-design-system) | An ISA-101 / HP-HMI industrial design system, restructured for AI consumption — tokens, components, and rules an agent can cite and follow. Companion to my Gofore Breakfast talk *"Your design system is AI infrastructure."* |
-| [Loom](https://github.com/alavesa/loom) | MCP server that serves a design system — tokens, components, usage rules — as queryable tools for any MCP-aware client. The protocol layer behind the talk. |
+| [Loom](https://github.com/alavesa/loom) | Serves a design system — tokens, components, usage rules — as queryable context for AI, over MCP or the command line. Same engine, two surfaces: `serve` speaks MCP, `query` returns the same slices from a shell. The protocol layer behind the talk. |
 
 #### Design Tools
 
