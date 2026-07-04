@@ -35,6 +35,17 @@ I bridge design leadership and security engineering — building tools that make
 | [CyberSlayer](https://github.com/alavesa/cyberslayer-web) | DOOM-inspired cybersecurity game — [Disobey badge](https://github.com/alavesa/cyberslayer) + [play it](https://cyberslayer.win) · Featured on [YLE](https://yle.fi/a/74-20209934) |
 | [Draw Her Story](https://github.com/alavesa/draw-her-story) | A drawing & guessing game celebrating the women who changed the world — built for International Women's Day at the She Builds hackathon. [play it](https://drawherstory.win) |
 
+#### Minecraft
+
+> Facility / SCP-style server builds — the same access-control and safety instincts, at play. 🧱🔐 All four [reviewed by PatchPilots](https://github.com/alavesa/patchpilots).
+
+| | |
+|---|---|
+| [Keycards](https://github.com/alavesa/keycard-datapack) | Keycards + card readers for Minecraft — swipe a card of high enough clearance and the door opens. Datapack + Paper plugin pair, built for facility / SCP-style servers. 🪪 |
+| [Guns](https://github.com/alavesa/guns-plugin) | Config-driven custom guns **and grenades** for Paper — define them in `guns.yml` or create and edit them in-game: damage, fire rate, magazine, reload, resource-pack model, backstab, bleed/poison, ricochet. Held in the crossbow aiming pose. 🔫 |
+| [Labra](https://github.com/alavesa/labra-plugin) | Lab equipment for Paper — hazard zones (radiation ☢ / toxic ☠ / cryo ❄), a hazmat suit that protects inside them, and a geiger counter that clicks faster near radiation. Companion to Keycards. ⚗️ |
+| [Flashlights](https://github.com/alavesa/flashlight-datapack) | A small datapack that adds a flashlight — right-click to toggle a beam that lights the way ~6 blocks ahead. 🔦 |
+
 #### Where to find me
 
 [neversay.no](https://neversay.no) · [uxsec.dev](https://uxsec.dev) · [LinkedIn](https://www.linkedin.com/in/alavesa/)
