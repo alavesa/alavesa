@@ -35,6 +35,14 @@ I bridge design leadership and security engineering — building tools that make
 | [CyberSlayer](https://github.com/alavesa/cyberslayer-web) | DOOM-inspired cybersecurity game — [Disobey badge](https://github.com/alavesa/cyberslayer) + [play it](https://cyberslayer.win) · Featured on [YLE](https://yle.fi/a/74-20209934) |
 | [Draw Her Story](https://github.com/alavesa/draw-her-story) | A drawing & guessing game celebrating the women who changed the world — built for International Women's Day at the She Builds hackathon. [play it](https://drawherstory.win) |
 
+#### Robots
+
+> Apps for [Reachy Mini](https://huggingface.co/blog/reachy-mini), the open-source desktop robot from Pollen Robotics and Hugging Face. Built and tested in the MuJoCo simulator while the hardware is on its way. 🤖
+
+| | |
+|---|---|
+| [Morning Briefing](https://github.com/alavesa/morning_briefing) | A conversation app that gets you out the door in Stavanger — say good morning and the robot tells you whether to bring an umbrella (MET Norway), when the next bus leaves (Entur, live times) and what's in the news (NRK). Install it on the robot from the [Hugging Face Space](https://huggingface.co/spaces/piia-alavesa/morning_briefing). ☕ |
+
 #### Minecraft
 
 > Facility / SCP-style server builds — the same access-control and safety instincts, at play. 🧱🔐 All four [reviewed by PatchPilots](https://github.com/alavesa/patchpilots).
