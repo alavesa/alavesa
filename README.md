@@ -59,4 +59,4 @@ Off the clock I'm teaching a desktop robot named Jonathan to say when the bus le
 
 #### Where to find me
 
-[neversay.no](https://neversay.no) · [uxsec.dev](https://uxsec.dev) · [LinkedIn](https://www.linkedin.com/in/alavesa/)
+[neversay.no](https://neversay.no) · [uxsec.dev](https://uxsec.dev) · [LinkedIn](https://www.linkedin.com/in/piia-alavesa/)
