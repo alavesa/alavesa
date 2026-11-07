@@ -5,6 +5,13 @@ Double M.Sc. — Cyber Security (University of Jyväskylä) + Information System
 
 I bridge design leadership and security engineering — building tools that make secure, accessible software the default.
 
+Off the clock I'm teaching a desktop robot named Jonathan to say when the bus leaves, and teaching Minecraft doors to check keycards before they open. Turns out both are access-control problems. 🤖🪪
+
+```
+$ whoami
+designer who reads CVEs for fun
+```
+
 #### Design + Security
 
 | | |
